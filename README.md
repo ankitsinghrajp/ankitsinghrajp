@@ -1,70 +1,33 @@
-#  Hi, I'm Ankit Singh Chouhan
-
- Full-Stack Developer | Backend & System Design Focus
+## 👨‍💻 Ankit Singh Chouhan
 
 ---
 
-##  About Me
+### 🔗 Connect
 
-*  I build **scalable backend systems & real-world SaaS products**
-*  Built **LastMinutePreparation** → 1800+ users & ₹7,500+ revenue (organic growth)
-*  Strong in **Node.js, Next.js, System Design, Real-Time Apps**
-*  Experience with **Queues (Inngest), Redis caching, WebSockets**
-*  Working with **AI APIs (OpenAI, Gemini)** to build smart applications
+[Portfolio](https://ankits-portfolio-omega.vercel.app) • [LinkedIn](https://linkedin.com/in/ankit-singh-chouhan-6612bb252) • [LeetCode](https://leetcode.com/ankit_singh_rajput) • [GeeksforGeeks](https://www.geeksforgeeks.org/user/ankitsinghrajp/)
 
 ---
 
-##  Tech Stack
+### 🚀 Work
 
-**Languages:** C++, JavaScript, TypeScript, Python, PHP
-**Frontend:** React.js, Next.js, Tailwind CSS
-**Backend:** Node.js, Express.js, REST APIs
-**Databases:** MongoDB, MySQL, PostgreSQL, Redis
-**Core:** System Design, WebSockets, JWT Auth, Rate Limiting, Microservices
-**Cloud:** AWS, Vercel, Render, Docker
+* Built **LastMinutePreparation (SaaS)** → 1800+ users, ₹7,500+ revenue
+* 🌐 https://lastminutepreparation.in
 
 ---
 
-##  Featured Projects
+### 🛠️ Tech Stack
 
-### 🔹 LastMinutePreparation (SaaS)
-
-* AI-powered exam platform with **1800+ users & real revenue**
-* Built using **Next.js, Node.js, OpenAI, Inngest, Redis**
-* Includes **queue system, caching, payments (Razorpay)**
-
-### 🔹 TalkSphere (Real-Time Chat App)
-
-* Built with **Socket.io, Node.js, MongoDB**
-* Features: messaging, groups, media sharing, friend system
-
-### 🔹 Arogya (Doctor Appointment Platform)
-
-* Full-stack system with **role-based access & video consultation (Vonage API)**
+* **Languages:** C++, JavaScript, TypeScript, Python, PHP
+* **Frontend:** React, Next.js, Tailwind
+* **Backend:** Node.js, Express, REST APIs
+* **Database:** MongoDB, MySQL, PostgreSQL, Redis
+* **Core:** System Design, WebSockets, JWT, Rate Limiting
+* **Cloud:** AWS, Vercel, Render, Docker
 
 ---
 
-##  Coding & Learning
+### 📊 Coding
 
-* Solved **250+ DSA problems** (high-frequency interview questions)
-* Focused on **backend engineering & scalable systems**
-
----
-
-##  Current Focus
-
-  Building scalable backend systems
-*  Mastering system design & performance
-*  Developing AI-powered applications
+* Solved **200+ DSA problems**
 
 ---
-
-##  Connect with Me
-
-*  LinkedIn: [https://www.linkedin.com/in/ankit-singh-chouhan-6612bb252]
-*  Portfolio: [https://ankits-portfolio-omega.vercel.app]
-*  GitHub: https://github.com/ankitsinghrajp
-
----
-
-⭐ *If you like my work, consider giving a star to my repositories!*
