@@ -1,6 +1,12 @@
-### 🔗 Connect
+###  Coding Profiles  
 
-[Portfolio](https://ankits-portfolio-omega.vercel.app) • [LinkedIn](https://linkedin.com/in/ankit-singh-chouhan-6612bb252) • [LeetCode](https://leetcode.com/ankit_singh_rajput) • [GeeksforGeeks](https://www.geeksforgeeks.org/user/ankitsinghrajp/)
+<a href="https://leetcode.com/ankit_singh_rajput">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/ankitsinghrajp/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/>
+</a>
 
 ---
 ###  Work
