@@ -3,7 +3,7 @@
 <div>
   <a href="https://ankits-portfolio-omega.vercel.app" target="blank">
     <img src="https://res.cloudinary.com/dove6tipv/image/upload/v1774591450/ankits-portfolio-logo_op4hm9.png" height="25"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp; Portfolio
 
   <a href="https://www.linkedin.com/in/ankit-singh-chouhan-6612bb252" target="blank">
     <img src="https://www.linkedin.com/favicon.ico" height="25"/>
