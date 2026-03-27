@@ -12,7 +12,7 @@
 <div style="display: flex; gap: 10px;">
     <a href="https://lastminutepreparation.in" target="blank"><img align="center" src="https://res.cloudinary.com/dove6tipv/image/upload/v1763279909/logo_wjvuqb.png" alt="LMP" height="20" width="20" /></a> LastMinutePreparation
    <a href="https://chat-app-client-orpin-delta.vercel.app" target="blank"><img align="center" src="https://chat-app-client-orpin-delta.vercel.app/favicon.ico" alt="TalkSphere" height="20" width="20" /></a> TalkSphere - The Chat App
-       <a href="https://clickstarinternational.com" target="blank"><img align="center" src="https://clickstarinternational.com/favicon.ico" alt="ClickStar" height="20" width="20" /></a> ClickStar - Academy
+       <a href="https://clickstarinternational.com" target="blank"><img align="center" src="https://clickstarinternational.com/favicon.ico" alt="ClickStar" height="30" width="30" /></a> ClickStar - Academy
 </div>
 
 ## MERN Projects Tech Stack -
