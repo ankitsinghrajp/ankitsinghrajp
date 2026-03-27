@@ -1,21 +1,10 @@
-## 👨‍💻 Ankit Singh Chouhan
-
----
-
-### 🔗 Connect
-
-[Portfolio](https://ankits-portfolio-omega.vercel.app) • [LinkedIn](https://linkedin.com/in/ankit-singh-chouhan-6612bb252) • [LeetCode](https://leetcode.com/ankit_singh_rajput) • [GeeksforGeeks](https://www.geeksforgeeks.org/user/ankitsinghrajp/)
-
----
-
 ### 🚀 Work
 
-* Built **LastMinutePreparation (SaaS)** → 1800+ users, ₹7,500+ revenue
+* Developed **LastMinutePreparation (SaaS)** → 1800+ users, ₹7,500+ revenue
 * 🌐 https://lastminutepreparation.in
 * Built **TalkSphere (Real-Time Chat App)** → messaging, groups, media sharing, WebSockets
 * 🌐 https://chat-app-client-orpin-delta.vercel.app
 ---
-
 ### 🛠️ Tech Stack
 
 * **Languages:** C, C++, Java, Python, JavaScript, TypeScript, PHP
@@ -26,12 +15,5 @@
 * **Cloud:** AWS (EC2, S3, IAM, Lightsail), Vercel, Render, Docker
 * **AI:** OpenAI API (GPT-4o mini, GPT-5.1 Pro), Gemini API, Prompt Engineering
 * **Integrations:** Razorpay, Cloudinary, Vonage API
-
----
-
-### 📊 Coding
-
-* Solved **250+ DSA problems**
-
 ---
 
