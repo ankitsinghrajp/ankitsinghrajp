@@ -1,21 +1,21 @@
 ## Connect -
 
-<div>
-  <a href="https://ankits-portfolio-omega.vercel.app" target="blank">
-    <img src="https://res.cloudinary.com/dove6tipv/image/upload/v1774591450/ankits-portfolio-logo_op4hm9.png" height="25"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp; Portfolio
+<div style="display: flex;">
+    <a href="https://ankits-portfolio-omega.vercel.app" target="blank" style="margin-right: 20px;">
+        <img align="center" src="https://res.cloudinary.com/dove6tipv/image/upload/v1774591450/ankits-portfolio-logo_op4hm9.png" alt="Portfolio" height="20" width="20" />
+    </a> Portfolio
 
-  <a href="https://www.linkedin.com/in/ankit-singh-chouhan-6612bb252" target="blank">
-    <img src="https://www.linkedin.com/favicon.ico" height="25"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/ankit-singh-chouhan-6612bb252" target="blank" style="margin-left: 20px; margin-right: 20px;">
+        <img align="center" src="https://www.linkedin.com/favicon.ico" alt="Linked In" height="20" width="20" />
+    </a> LinkedIn
 
-  <a href="https://leetcode.com/u/ankit_singh_rajput/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="25"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://leetcode.com/u/ankit_singh_rajput/" target="blank" style="margin-left: 20px; margin-right: 20px;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="20" width="20" />
+    </a> LeetCode  
 
-  <a href="https://www.geeksforgeeks.org/profile/ankitsinghcsesl" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="25"/>
-  </a>
+    <a href="https://www.geeksforgeeks.org/profile/ankitsinghcsesl" target="blank" style="margin-left: 20px;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="30" />
+    </a> GeeksforGeeks
 </div>
 
 ## Live Projects -
