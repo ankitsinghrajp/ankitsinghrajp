@@ -1,9 +1,9 @@
 ## Coding Profile -
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://leetcode.com/u/avadhesh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a> LeetCode  
-  <a href="https://www.geeksforgeeks.org/user/avadheshkumlm8q/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a> GeeksforGeeks
-  <a href="https://codeforces.com/profile/Avadhesh_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a> Codeforces
+  <a href="https://leetcode.com/u/ankit_singh_rajput/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a> LeetCode  
+  <a href="https://www.geeksforgeeks.org/profile/ankitsinghcsesl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a> GeeksforGeeks
+  <a href="https://ankits-portfolio-omega.vercel.app" target="blank"><img align="center" src="https://res.cloudinary.com/dove6tipv/image/upload/v1774591450/ankits-portfolio-logo_op4hm9.png" alt="Codeforces" height="30" width="40" /></a> Codeforces
   <a href="https://www.codechef.com/users/avadhesh_04" target="blank"><img align="center" src="https://cdn.simpleicons.org/codechef" alt="CodeChef" height="30" width="40" /></a> CodeChef
   <a href="https://www.hackerearth.com/@avadhesh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a> HackerEarth
 </div>
