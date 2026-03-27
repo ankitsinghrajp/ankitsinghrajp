@@ -28,6 +28,6 @@
 
 ### 📊 Coding
 
-* Solved **200+ DSA problems**
+* Solved **250+ DSA problems**
 
 ---
