@@ -9,11 +9,11 @@
 
 ## Live Projects -
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 30px;">
     <a href="https://lastminutepreparation.in" target="blank"><img align="center" src="https://res.cloudinary.com/dove6tipv/image/upload/v1763279909/logo_wjvuqb.png" alt="LMP" height="20" width="20" /></a> LastMinutePreparation.in
    <a href="https://chat-app-client-orpin-delta.vercel.app" target="blank"><img align="center" src="https://chat-app-client-orpin-delta.vercel.app/favicon.ico" alt="TalkSphere" height="20" width="20" /></a> TalkSphere - Real Time Chat App
        <a href="https://clickstarinternational.com" target="blank"><img align="center" src="https://clickstarinternational.com/favicon.ico" alt="ClickStar" height="30" width="30" /></a>Click Star Academy
-     <a href="https://thepacificdental.com" target="blank"><img align="center" src="https://thepacificdental.com/favicon.ico" alt="PacificDental" height="30" width="30" /></a> Pacific Dental Products
+     <a href="https://thepacificdental.com" target="blank"><img align="center" src="https://thepacificdental.com/favicon.ico" alt="PacificDental" height="20" width="20" /></a> Pacific Dental Products
 </div>
 
 ## MERN Projects Tech Stack -
