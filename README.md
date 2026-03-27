@@ -1,4 +1,4 @@
-<h2>🌐 Connect with Me</h2>
+<h2> Connect with Me</h2>
 
 <p>
   <a href="https://ankits-portfolio-omega.vercel.app" target="blank">
@@ -22,14 +22,33 @@
   </a>
 </p>
 
-## Live Projects -
+<h2>🚀 Live Projects</h2>
 
-<div style="display: flex; gap: 30px;">
-    <a href="https://lastminutepreparation.in" target="blank"><img align="center" src="https://res.cloudinary.com/dove6tipv/image/upload/v1763279909/logo_wjvuqb.png" alt="LMP" height="20" width="20" /></a> LastMinutePreparation.in
-   <a href="https://chat-app-client-orpin-delta.vercel.app" target="blank"><img align="center" src="https://chat-app-client-orpin-delta.vercel.app/favicon.ico" alt="TalkSphere" height="20" width="20" /></a> TalkSphere - Real Time Chat App
-       <a href="https://clickstarinternational.com" target="blank"><img align="center" src="https://clickstarinternational.com/favicon.ico" alt="ClickStar" height="30" width="30" /></a>Click Star Academy
-     <a href="https://thepacificdental.com" target="blank"><img align="center" src="https://thepacificdental.com/favicon.ico" alt="PacificDental" height="20" width="20" /></a> Pacific Dental Products
-</div>
+<p>
+  <a href="https://lastminutepreparation.in" target="blank">
+    <img src="https://res.cloudinary.com/dove6tipv/image/upload/v1763279909/logo_wjvuqb.png" alt="LMP" height="20" width="20" />
+    &nbsp;LastMinutePreparation.in
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://chat-app-client-orpin-delta.vercel.app" target="blank">
+    <img src="https://chat-app-client-orpin-delta.vercel.app/favicon.ico" alt="TalkSphere" height="20" width="20" />
+    &nbsp;TalkSphere - Real Time Chat App
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://clickstarinternational.com" target="blank">
+    <img src="https://clickstarinternational.com/favicon.ico" alt="ClickStar" height="20" width="20" />
+    &nbsp;Click Star Academy
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://thepacificdental.com" target="blank">
+    <img src="https://thepacificdental.com/favicon.ico" alt="PacificDental" height="20" width="20" />
+    &nbsp;Pacific Dental Products
+  </a>
+</p>
+
+<blockquote>
+  📈 <strong>LastMinutePreparation.in</strong> — A SaaS platform that has gained <strong>1,800+ signups</strong> and generated <strong>₹7,500+ in revenue</strong>, helping students prepare smarter at the last minute.
+</blockquote>
 
 ## MERN Projects Tech Stack -
 
