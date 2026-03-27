@@ -50,43 +50,39 @@
   📈 <strong>LastMinutePreparation.in</strong> — A SaaS platform that has gained <strong>1,800+ signups</strong> and generated <strong>₹7,500+ in revenue</strong>, helping students prepare smarter at the last minute.
 </blockquote>
 
-## MERN Projects Tech Stack -
+<h2>🛠️ Tech Stack</h2>
 
-<ul>
-  <li style="margin-bottom: 10px;">
-    <strong>Languages:</strong> C++, JavaScript, SQL, Python, Html/CSS
-  </li>
-  
-  <li style="margin-bottom: 10px;">
-    <strong>Frameworks & Libraries:</strong> React.js, Node.js, Express.js, TypeScript,
-  </li>
-  
-  <li style="margin-bottom: 10px;">
-    <strong>Databases & Cloud:</strong> MongoDB, MySQL, AWS (EC2, S3), Cloudinary
-  </li>
-  
-  <li style="margin-bottom: 10px;">
-    <strong>Developer Tools:</strong> VS Code, Postman (API), Git, GitHub
-  </li>
-</ul>
-
-
-## Data Science Projects Tech Stack -
-
-<ul>
-  <li style="margin-bottom: 10px;">
-    <strong>Machine Learning:</strong> Supervised ML, Unsupervised ML, Ensemble Learning 
-  </li>
-
-  <li style="margin-bottom: 10px;">
-    <strong>Deep Learning:</strong> ANN, CNN, RNN, LSTM, BERT, GAN, NLP, CV
-  </li>
-
-  <li style="margin-bottom: 10px;">
-    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, PyTorch, Numpy, Pandas
-  </li>
-
-  <li style="margin-bottom: 10px;">
-    <strong>Developers Tools:</strong> Jupyter NoteBook, Django, Flask 
-  </li>
-</ul>
+<table>
+  <tr>
+    <td><strong>💻 Languages</strong></td>
+    <td>C &nbsp;|&nbsp; C++ &nbsp;|&nbsp; Java &nbsp;|&nbsp; Python &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; PHP</td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Frontend</strong></td>
+    <td>HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp; Tailwind &nbsp;|&nbsp; Bootstrap &nbsp;|&nbsp; React &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; Shadcn UI &nbsp;|&nbsp; GSAP</td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Backend</strong></td>
+    <td>Node.js &nbsp;|&nbsp; Express.js &nbsp;|&nbsp; REST APIs</td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Database</strong></td>
+    <td>MongoDB &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; PostgreSQL &nbsp;|&nbsp; Redis</td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Core</strong></td>
+    <td>WebSockets &nbsp;|&nbsp; Socket.io &nbsp;|&nbsp; JWT Auth &nbsp;|&nbsp; OAuth 2.0 &nbsp;|&nbsp; RBAC &nbsp;|&nbsp; Rate Limiting &nbsp;|&nbsp; System Design &nbsp;|&nbsp; Microservices &nbsp;|&nbsp; Inngest</td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud</strong></td>
+    <td>AWS (EC2, S3, IAM, Lightsail) &nbsp;|&nbsp; Vercel &nbsp;|&nbsp; Render &nbsp;|&nbsp; Docker</td>
+  </tr>
+  <tr>
+    <td><strong>🤖 AI</strong></td>
+    <td>OpenAI API (GPT-4o mini, GPT-5.1 Pro) &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Prompt Engineering</td>
+  </tr>
+  <tr>
+    <td><strong>🔗 Integrations</strong></td>
+    <td>Razorpay &nbsp;|&nbsp; Cloudinary &nbsp;|&nbsp; Vonage API</td>
+  </tr>
+</table>
