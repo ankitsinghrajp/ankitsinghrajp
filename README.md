@@ -51,7 +51,7 @@
 </blockquote>
 
 <blockquote>
-   <strong>Refynai.org</strong> — Refyn AI — An AI-powered GitHub code analyzer that detects bugs, suggests fixes, and automates pull requests to streamline code review workflows.
+   <strong>Refynai.org</strong> — An AI-powered GitHub code analyzer that detects bugs, suggests fixes, and automates pull requests to streamline code review workflows.
 </blockquote>
 <h2> Tech Stack</h2>
 
