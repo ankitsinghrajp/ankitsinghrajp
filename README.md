@@ -30,7 +30,7 @@
     &nbsp;LastMinutePreparation.in
   </a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://thepacificdental.com" target="blank">
+  <a href="https://refynai.org" target="blank">
     <img src="https://refynai.org/favicon.ico" alt="Refyn AI" height="20" width="20" />
     &nbsp;RefynAI - Github Analyzer
   </a>
