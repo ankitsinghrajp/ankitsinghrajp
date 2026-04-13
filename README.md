@@ -30,6 +30,11 @@
     &nbsp;LastMinutePreparation.in
   </a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://thepacificdental.com" target="blank">
+    <img src="https://refynai.org/favicon.ico" alt="Refyn AI" height="20" width="20" />
+    &nbsp;RefynAI - Github Analyzer
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://chat-app-client-orpin-delta.vercel.app" target="blank">
     <img src="https://chat-app-client-orpin-delta.vercel.app/favicon.ico" alt="TalkSphere" height="20" width="20" />
     &nbsp;TalkSphere - Real Time Chat App
@@ -38,11 +43,6 @@
   <a href="https://clickstarinternational.com" target="blank">
     <img src="https://clickstarinternational.com/favicon.ico" alt="ClickStar" height="20" width="20" />
     &nbsp;Click Star Academy
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://thepacificdental.com" target="blank">
-    <img src="https://thepacificdental.com/favicon.ico" alt="PacificDental" height="20" width="20" />
-    &nbsp;Pacific Dental Products
   </a>
 </p>
 
@@ -86,6 +86,6 @@
   </tr>
   <tr>
     <td><strong> Integrations</strong></td>
-    <td>Razorpay &nbsp;|&nbsp; Cloudinary &nbsp;|&nbsp; Vonage API</td>
+    <td>Razorpay &nbsp;| PayPal &nbsp;| &nbsp; Cloudinary &nbsp;|&nbsp; Vonage API</td>
   </tr>
 </table>
