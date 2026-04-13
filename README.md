@@ -50,6 +50,9 @@
    <strong>LastMinutePreparation.in</strong> — A SaaS platform that has gained <strong>1,800+ signups</strong> and generated <strong>₹7,500+ in revenue</strong>, helping students prepare smarter at the last minute.
 </blockquote>
 
+<blockquote>
+   <strong>Refynai.org</strong> — Refyn AI — An AI-powered GitHub code analyzer that detects bugs, suggests fixes, and automates pull requests to streamline code review workflows.
+</blockquote>
 <h2> Tech Stack</h2>
 
 <table>
