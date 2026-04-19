@@ -8,27 +8,18 @@
 
 <div align="center">
 
-<p>
-  <a href="https://ankits-portfolio-omega.vercel.app" target="_blank">
-    <img src="https://res.cloudinary.com/dove6tipv/image/upload/v1774591450/ankits-portfolio-logo_op4hm9.png" alt="Portfolio" height="20" width="20" />
-    &nbsp;Portfolio
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ankit-singh-chouhan-6612bb252" target="_blank">
-    <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" height="20" width="20" />
-    &nbsp;LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ankit_singh_rajput/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="20" width="20" />
-    &nbsp;LeetCode
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/ankitsinghcsesl" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="20" width="20" />
-    &nbsp;GeeksforGeeks
-  </a>
-</p>
+<a href="https://ankits-portfolio-omega.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/ankit-singh-chouhan-6612bb252" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
+<a href="https://leetcode.com/u/ankit_singh_rajput/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/ankitsinghcsesl" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
 
 </div>
 
@@ -38,27 +29,12 @@
 
 <div align="center">
 
-<p>
-  <a href="https://lastminutepreparation.in" target="_blank">
-    <img src="https://res.cloudinary.com/dove6tipv/image/upload/v1763279909/logo_wjvuqb.png" alt="LMP" height="20" width="20" />
-    &nbsp;<strong>LastMinutePreparation.in</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://refynai.org" target="_blank">
-    <img src="https://refynai.org/favicon.ico" alt="Refyn AI" height="20" width="20" />
-    &nbsp;<strong>RefynAI - Github Analyzer</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://chat-app-client-orpin-delta.vercel.app" target="_blank">
-    <img src="https://chat-app-client-orpin-delta.vercel.app/favicon.ico" alt="TalkSphere" height="20" width="20" />
-    &nbsp;<strong>TalkSphere - Real Time Chat App</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://clickstarinternational.com" target="_blank">
-    <img src="https://clickstarinternational.com/favicon.ico" alt="ClickStar" height="20" width="20" />
-    &nbsp;<strong>Click Star Academy</strong>
-  </a>
-</p>
+| &nbsp; | Project | Description | Status |
+|:------:|---------|-------------|:------:|
+| <img src="https://res.cloudinary.com/dove6tipv/image/upload/v1763279909/logo_wjvuqb.png" height="20" width="20"/> | [**LastMinutePreparation.in**](https://lastminutepreparation.in) | SaaS platform for smart last-minute exam prep · **1,800+ signups · ₹7,500+ revenue** | 🟢 Live |
+| <img src="https://refynai.org/favicon.ico" height="20" width="20"/> | [**RefynAI - GitHub Analyzer**](https://refynai.org) | AI-powered code analyzer — detects bugs, suggests fixes & automates PRs | 🟢 Live |
+| <img src="https://chat-app-client-orpin-delta.vercel.app/favicon.ico" height="20" width="20"/> | [**TalkSphere**](https://chat-app-client-orpin-delta.vercel.app) | Real-time chat application with WebSocket architecture | 🟢 Live |
+| <img src="https://clickstarinternational.com/favicon.ico" height="20" width="20"/> | [**Click Star Academy**](https://clickstarinternational.com) | Professional education platform | 🟢 Live |
 
 </div>
 
@@ -104,6 +80,22 @@
     <td>Razorpay &nbsp;|&nbsp; PayPal &nbsp;|&nbsp; Cloudinary &nbsp;|&nbsp; Vonage API</td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankitsinghrajp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghrajp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsinghrajp&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="160"/>
+
+</div>
 
 ---
 
