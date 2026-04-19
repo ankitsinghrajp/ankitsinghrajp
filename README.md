@@ -34,61 +34,40 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-**Core Concepts**
-
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=apachekafka&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-6C3483?style=flat-square&logo=blueprint&logoColor=white)
-
-**AI & Integrations**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td><strong>🧠 Languages</strong></td>
+    <td>C &nbsp;|&nbsp; C++ &nbsp;|&nbsp; Java &nbsp;|&nbsp; Python &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; PHP</td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Frontend</strong></td>
+    <td>HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp; Tailwind &nbsp;|&nbsp; Bootstrap &nbsp;|&nbsp; React &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; Shadcn UI &nbsp;|&nbsp; GSAP</td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Backend</strong></td>
+    <td>Node.js &nbsp;|&nbsp; Express.js &nbsp;|&nbsp; REST APIs</td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Database</strong></td>
+    <td>MongoDB &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; PostgreSQL &nbsp;|&nbsp; Redis</td>
+  </tr>
+  <tr>
+    <td><strong>🔩 Core</strong></td>
+    <td>WebSockets &nbsp;|&nbsp; Socket.io &nbsp;|&nbsp; JWT Auth &nbsp;|&nbsp; OAuth 2.0 &nbsp;|&nbsp; RBAC &nbsp;|&nbsp; Rate Limiting &nbsp;|&nbsp; System Design &nbsp;|&nbsp; Microservices &nbsp;|&nbsp; Inngest</td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud</strong></td>
+    <td>AWS (EC2, S3, IAM, Lightsail) &nbsp;|&nbsp; Vercel &nbsp;|&nbsp; Render &nbsp;|&nbsp; Docker</td>
+  </tr>
+  <tr>
+    <td><strong>🤖 AI</strong></td>
+    <td>OpenAI API (GPT-4o mini, GPT-4.1 Pro) &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Prompt Engineering</td>
+  </tr>
+  <tr>
+    <td><strong>🔗 Integrations</strong></td>
+    <td>Razorpay &nbsp;|&nbsp; PayPal &nbsp;|&nbsp; Cloudinary &nbsp;|&nbsp; Vonage API</td>
+  </tr>
+</table>
 
 ---
 
