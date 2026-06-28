@@ -31,15 +31,53 @@
 | &nbsp; | Project | Description | Status |
 |:------:|---------|-------------|:------:|
 | <img src="https://res.cloudinary.com/dove6tipv/image/upload/v1763279909/logo_wjvuqb.png" height="20" width="20"/> | [**LastMinutePreparation.in**](https://lastminutepreparation.in) | SaaS platform for smart last-minute exam prep · **1,800+ signups · ₹7,500+ revenue** | 🟢 Live |
-| <img src="https://refynai.org/favicon.ico" height="20" width="20"/> | [**RefynAI - GitHub Analyzer**](https://refynai.org) | AI-powered code analyzer — detects bugs, suggests fixes & automates PRs | 🟢 Live |
+| <img src="https://refynai.org/favicon.ico" height="20" width="20"/> | [**RefynAI - GitHub Analyzer**](https://refynai.org) | AI-powered code review platform — analyzes GitHub repos and generates actionable code insights · *team project* | 🟡 In Progress |
 | <img src="https://chat-app-client-orpin-delta.vercel.app/favicon.ico" height="20" width="20"/> | [**TalkSphere**](https://chat-app-client-orpin-delta.vercel.app) | Real-time chat application with WebSocket architecture | 🟢 Live |
 | <img src="https://clickstarinternational.com/favicon.ico" height="20" width="20"/> | [**Click Star Academy**](https://clickstarinternational.com) | Professional education platform | 🟢 Live |
 
 </div>
 
-> **LastMinutePreparation.in** — A SaaS platform that has gained **1,800+ signups** and generated **₹7,500+ in revenue**, helping students prepare smarter at the last minute.
+> **LastMinutePreparation.in** — A SaaS platform that has gained **1,800+ signups** and generated **₹7,500+ in revenue**, helping students prepare smarter at the last minute. Built with async job workflows (Inngest), Redis caching, OpenAI integration, and Razorpay payments.
 
-> **Refynai.org** — An AI-powered GitHub code analyzer that detects bugs, suggests fixes, and automates pull requests to streamline code review workflows.
+> **Refynai.org** — An AI-powered code review platform for analyzing GitHub repositories and generating actionable insights, with JWT-based access control and Razorpay/PayPal-backed subscription management for region-based payments.
+
+> **TalkSphere** — A real-time chat system supporting messaging, group chats, and friend requests via Socket.io, with JWT-secured sessions, Cloudinary media sharing, and an admin analytics dashboard.
+
+---
+
+##  Experience
+
+<table>
+  <tr>
+    <td><strong>Full Stack Developer Intern</strong></td>
+    <td>SewaStack</td>
+    <td align="right"><sub>Jul 2025 – Dec 2025</sub></td>
+  </tr>
+</table>
+
+Developed and maintained full-stack features using **React, Node.js, Next.js, PHP, and MySQL** across multiple project phases, improving application performance and scalability. Contributed to testing, debugging, and production deployment to ensure application reliability.
+
+---
+
+##  Achievements
+
+🏆 **Blostem AI Builder Hackathon** — *May 2026*
+Shortlisted among **45 participants from 647+ applicants** for Blostem's "Hack to the Future" AI Builder Hackathon — built and shipped a product end-to-end under mentorship.
+
+---
+
+##  Coding Profile
+
+<div align="center">
+
+| Platform | Stats |
+|:---:|:---|
+| 🟧 **LeetCode** | 200+ problems solved · 1,300+ submissions |
+| 🟩 **GeeksforGeeks** | 110+ problems solved · Coding score: 323 |
+
+</div>
+
+> Solved **250+ algorithmic and data structure problems** across LeetCode and GeeksforGeeks since Jan 2024.
 
 ---
 
@@ -64,7 +102,7 @@
   </tr>
   <tr>
     <td><strong> Core</strong></td>
-    <td>WebSockets &nbsp;|&nbsp; Socket.io &nbsp;|&nbsp; JWT Auth &nbsp;|&nbsp; OAuth 2.0 &nbsp;|&nbsp; RBAC &nbsp;|&nbsp; Rate Limiting &nbsp;|&nbsp; System Design &nbsp;|&nbsp; Microservices &nbsp;|&nbsp; Inngest</td>
+    <td>WebSockets &nbsp;|&nbsp; Socket.io &nbsp;|&nbsp; JWT Auth &nbsp;|&nbsp; OAuth 2.0 &nbsp;|&nbsp; RBAC &nbsp;|&nbsp; Rate Limiting &nbsp;|&nbsp; System Design (HLD) &nbsp;|&nbsp; Microservices &nbsp;|&nbsp; Inngest &nbsp;|&nbsp; DSA</td>
   </tr>
   <tr>
     <td><strong> Cloud</strong></td>
