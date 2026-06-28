@@ -86,7 +86,7 @@ Shortlisted among **45 participants from 647+ applicants** for Blostem's "Hack t
 <table>
   <tr>
     <td><strong> Languages</strong></td>
-    <td>C &nbsp;|&nbsp; C++ &nbsp;|&nbsp; Java &nbsp;|&nbsp; Python &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; PHP</td>
+    <td>C &nbsp;|&nbsp; C++ &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript &nbsp;</td>
   </tr>
   <tr>
     <td><strong> Frontend</strong></td>
