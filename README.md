@@ -45,48 +45,12 @@
 
 ---
 
-##  Experience
-
-<table>
-  <tr>
-    <td><strong>Full Stack Developer Intern</strong></td>
-    <td>SewaStack</td>
-    <td align="right"><sub>Jul 2025 – Dec 2025</sub></td>
-  </tr>
-</table>
-
-Developed and maintained full-stack features using **React, Node.js, Next.js, PHP, and MySQL** across multiple project phases, improving application performance and scalability. Contributed to testing, debugging, and production deployment to ensure application reliability.
-
----
-
-##  Achievements
-
-🏆 **Blostem AI Builder Hackathon** — *May 2026*
-Shortlisted among **45 participants from 647+ applicants** for Blostem's "Hack to the Future" AI Builder Hackathon — built and shipped a product end-to-end under mentorship.
-
----
-
-##  Coding Profile
-
-<div align="center">
-
-| Platform | Stats |
-|:---:|:---|
-| 🟧 **LeetCode** | 200+ problems solved · 1,300+ submissions |
-| 🟩 **GeeksforGeeks** | 110+ problems solved · Coding score: 323 |
-
-</div>
-
-> Solved **250+ algorithmic and data structure problems** across LeetCode and GeeksforGeeks since Jan 2024.
-
----
-
 ##  Tech Stack
 
 <table>
   <tr>
     <td><strong> Languages</strong></td>
-    <td>C &nbsp;|&nbsp; C++ &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript &nbsp;</td>
+    <td> C++ &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript &nbsp;</td>
   </tr>
   <tr>
     <td><strong> Frontend</strong></td>
