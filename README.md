@@ -36,13 +36,6 @@
 | <img src="https://clickstarinternational.com/favicon.ico" height="20" width="20"/> | [**Click Star Academy**](https://clickstarinternational.com) | Professional education platform | 🟢 Live |
 
 </div>
-
-> **LastMinutePreparation.in** — A SaaS platform that has gained **1,800+ signups** and generated **₹7,500+ in revenue**, helping students prepare smarter at the last minute. Built with async job workflows (Inngest), Redis caching, OpenAI integration, and Razorpay payments.
-
-> **Refynai.org** — An AI-powered code review platform for analyzing GitHub repositories and generating actionable insights, with JWT-based access control and Razorpay/PayPal-backed subscription management for region-based payments.
-
-> **TalkSphere** — A real-time chat system supporting messaging, group chats, and friend requests via Socket.io, with JWT-secured sessions, Cloudinary media sharing, and an admin analytics dashboard.
-
 ---
 
 ##  Tech Stack
